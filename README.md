@@ -1,1 +1,1 @@
-# ttention-resnet50-outdoor-classification
+# attention-resnet50-outdoor-classification
